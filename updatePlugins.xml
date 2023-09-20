@@ -6,6 +6,6 @@
 url="https://raw.githubusercontent.com/Automattic/Tumblr-android-architecture-plugin-releases/master/releases/TumblrAndroidArchitecturePlugin-0.9.zip"
             name="Tumblr Android Architecture"
             version="0.9">
-        <idea-version since-build="222"/>
+        <idea-version since-build="AI-222.*"/>
     </plugin>
 </plugins>
