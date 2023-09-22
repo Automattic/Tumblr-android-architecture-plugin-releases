@@ -3,9 +3,9 @@
     <plugin
             id="com.tumblr.TumblrAndroidArchitecturePlugin"
             
-url="https://raw.githubusercontent.com/Automattic/Tumblr-android-architecture-plugin-releases/master/releases/TumblrAndroidArchitecturePlugin-1.0.zip"
+url="https://raw.githubusercontent.com/Automattic/Tumblr-android-architecture-plugin-releases/master/releases/TumblrAndroidArchitecturePlugin-1.1.zip"
             name="Tumblr Android Architecture"
-            version="1.0">
+            version="1.1">
         <idea-version since-build="AI-222.*"/>
     </plugin>
 </plugins>
